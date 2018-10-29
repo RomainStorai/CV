@@ -28,7 +28,7 @@ AddType application/pdf .pdf
 </IfModule>
 
 <IfModule mod_headers.c>
- Header set Content-Security-Policy "default-src 'self' ; script-src * 'unsafe-inline' 'self' ; style-src 'unsafe-inline' 'self' ; base-uri 'self' ; img-src * 'self' ;"
+ Header set Content-Security-Policy "default-src 'self' ; script-src * 'unsafe-inline' 'self' ; style-src 'unsafe-inline' 'self' ; base-uri 'self' ; img-src * 'self' ; frame-src * ;"
  Header set X-XSS-Protection "1; mode=block"
  Header always append X-Frame-Options SAMEORIGIN
  Header set X-Content-Type-Options nosniff
