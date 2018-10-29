@@ -1,0 +1,20 @@
+{
+    "name": "rstr.fr",
+    "short_name": "rstr.fr",
+    "icons": [
+        {
+            "src": "/resources/img/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/resources/img/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffdd57",
+    "background_color": "#ffdd57",
+    "start_url": "https://rstr.fr",
+    "display": "standalone"
+}
