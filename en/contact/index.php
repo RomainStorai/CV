@@ -60,13 +60,13 @@ if (isset($_POST['email'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Romain Storaï: profile, skills, educations, hobbies and a lot more!">
+    <meta name="twitter:title" content="Romain Storaï : profile, skills, educations, hobbies and a lot more!">
     <meta name="twitter:description"
           content="Come on my websites to discover my skills, educations and a lot more! This is a CV website where I present myself, you can contact me or just take a look. Have a good visit!">
     <meta name="twitter:image" content="https://rstr.fr/favicon.png">
     <meta name="twitter:image:alt" content="Logo Romain">
     <meta property="og:type" content="profile">
-    <meta property="og:title" content="Romain Storaï: profile, skills, educations, hobbies and a lot more!">
+    <meta property="og:title" content="Romain Storaï : profile, skills, educations, hobbies and a lot more!">
     <meta property="og:url" content="https://rstr.fr/en">
     <meta property="og:image" content="https://rstr.fr/favicon.png">
     <meta property="profile:first_name" content="Romain">
@@ -105,7 +105,7 @@ if (isset($_POST['email'])) {
         },
         "email": "contact@rstr.fr",
         "telephone": "+33652022576",
-        "birthDate": "2001-06-03"
+        "birthDate": "2001-06-03",
         "sameAs": [
             "https://www.facebook.com/romains62",
             "https://github.com/RomainStorai"
