@@ -1,7 +1,9 @@
 User-Agent: *
-Allow: https://rstr.fr/en/
-Allow: https://rstr.fr/contact/
-Allow: https://rstr.fr/en/contact/
+Allow: https://rstr.fr/en/index.html
+Disallow: https://rstr.fr/contact/
+Disallow: https://rstr.fr/en/contact/
+Disallow: https://rstr.fr/mentions/
+Disallow: https://rstr.fr/en/mentions/
 Disallow: https://rstr.fr/resources/
 
 Sitemap: https://rstr.fr/sitemap.xml

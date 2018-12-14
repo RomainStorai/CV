@@ -30,6 +30,12 @@ html, body {
     background: #ffe589;
 }
 
+.hlink {
+    color: #1c1c1c;
+    border-bottom: 1px dashed #b0b0b0;
+    text-decoration: none;
+}
+
 .loisir {
     border-radius: 5px;
     margin-left: 2px;
@@ -79,13 +85,15 @@ img {
 }
 
 .card {
-    min-height: 310px;
+    min-height: 450px;
     border-radius: 8px;
     box-shadow: 0 6px 15px rgba(50, 50, 93, .1), 0 2px 7px rgba(0, 0, 0, .07);
 }
 
 .vcard {
-    min-height: 640px;
+    min-height: 950px;
+    border-radius: 8px;
+    box-shadow: 0 6px 15px rgba(50, 50, 93, .1), 0 2px 7px rgba(0, 0, 0, .07);
 }
 
 .timeline ul {
@@ -144,7 +152,7 @@ img {
 }
 
 .timeline .desc {
-    width: 50%;
+    width: 70%;
     text-align: justify;
 }
 
@@ -170,6 +178,28 @@ img {
     .imagefit {
         justify-content: flex-end;
     }
+
+    .fifteen {
+        margin-top: 20%;
+    }
+}
+
+@media (max-width: 1470px) {
+    .vcard {
+        min-height: 975px;
+    }
+}
+
+@media (max-width: 1086px) {
+    .vcard {
+        min-height: 995px;
+    }
+}
+
+@media (min-width: 1466px) {
+    .fifteen {
+        margin-top: 12%;
+    }
 }
 
 @media (max-width: 1278px) {
@@ -179,6 +209,12 @@ img {
 
     .timeline h4 {
         font-size: 0.7em;
+    }
+}
+
+@media (max-width: 1011px) {
+    .timeline .desc {
+        width: 60%;
     }
 }
 

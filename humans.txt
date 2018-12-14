@@ -1,0 +1,18 @@
+/* TEAM */
+
+
+Creator, Developer: Romain Storaï
+Site: contact@rstr.fr - https://rstr.fr/contact
+Facebook: romains62
+Location: Wimereux, France
+
+
+/* SITE */
+
+
+Last update:  2018/12/13
+Standards: HTML5, CSS3.
+Language: French / English
+Components: Normalize, jQuery.
+Doctype: HTML5
+Software: JetBrains Webstorm, Github, FileZilla.

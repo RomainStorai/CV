@@ -124,13 +124,16 @@ if (isset($_POST['email'])) {
     <meta name="msapplication-TileColor" content="#ffdd57">
     <meta name="msapplication-TileImage" content="/resources/img/mstile-144x144.png">
     <meta name="msapplication-config" content="/resources/img/browserconfig.xml">
-    <meta name="theme-color" content="#ffdd57">
 
     <title style="font-size: 30px">Romain Storaï :: Contact</title>
     <link rel="stylesheet" href="../../resources/css/bulma.min.css">
     <link rel="stylesheet" type="text/css" href="../../resources/css/animate.css">
     <link rel="stylesheet" type="text/css" href="../../resources/css/app.css">
-    <link rel="icon" type="image/png" href="../../favicon.png" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.6.1/js/all.js"
+            integrity="sha384-R5JkiUweZpJjELPWqttAYmYM1P3SNEJRM6ecTQF05pFFtxmCO+Y1CiUhvuDzgSVZ"
+            crossorigin="anonymous"></script>
+    <link type="text/plain" rel="author" href="http://rstr.fr/humans.txt" />
 
     <style>
         .light {
