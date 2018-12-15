@@ -61,7 +61,7 @@ if (isset($_POST['email'])) {
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Romain Storaï : profil, compétences, formations, expériences et bien plus !">
     <meta name="twitter:description"
-         content="Bonjour, je suis Romain Storaï. Venez découvrir mon profil, mes compétences, mes expériences et bien plus sur mon site ! C'est en fait un site CV où je mé présente, vous pouvez me contacter ou juste regarder. Bonne visite !">
+         content="Venez découvrir le profil de Romain Storai, ses compétences, ses expériences et bien plus ! Vous trouverez son CV, vous pouvez aussi me contacter ou juste regarder. Bonne visite !">
     <meta name="twitter:image" content="https://rstr.fr/favicon.png">
     <meta name="twitter:image:alt" content="Logo Romain">
     <meta property="og:type" content="profile">
@@ -73,14 +73,14 @@ if (isset($_POST['email'])) {
     <meta property="profile:gender" content="male">
     <meta property="profile:username" content="romains62">
     <meta name="og:description"
-          content="Bonjour, je suis Romain Storaï. Venez découvrir mon profil, mes compétences, mes expériences et bien plus sur mon site ! C'est en fait un site CV où je mé présente, vous pouvez me contacter ou juste regarder. Bonne visite !">
+          content="Venez découvrir le profil de Romain Storai, ses compétences, ses expériences et bien plus ! Vous trouverez son CV, vous pouvez aussi me contacter ou juste regarder. Bonne visite !">
 
     <meta name="theme-color" content="#ffdd57">
     <meta name="Author" content="Romain Storaï">
     <meta name="keywords"
           content="romain storaï, romain storai, romain, formations, education, expériences, loisirs, lycéen, cv, resume, bnssa, terminale, wimereux, rstr, storai, anglais, français, canada, programmation, contact"/>
     <meta name="description"
-          content="Bonjour, je suis Romain Storaï. Venez découvrir mon profil, mes compétences, mes expériences et bien plus sur mon site ! C'est en fait un site CV où je mé présente, vous pouvez me contacter ou juste regarder. Bonne visite !">
+          content="Venez découvrir le profil de Romain Storai, ses compétences, ses expériences et bien plus ! Vous trouverez son CV, vous pouvez aussi me contacter ou juste regarder. Bonne visite !">
     <meta name="google" content="notranslate">
     <meta name="subject" content="Resume">
     <meta name="rating" content="General">
@@ -124,7 +124,8 @@ if (isset($_POST['email'])) {
     <meta name="msapplication-TileImage" content="/resources/img/mstile-144x144.png">
     <meta name="msapplication-config" content="/resources/img/browserconfig.xml">
 
-    <title style="font-size: 30px">Romain Storaï :: Contacter</title>
+    <title style="font-size: 30px">Romain Storai :: Contacter</title>
+    <link rel="canonical" href="https://rstr.fr/contact/" />
     <link rel="stylesheet" href="../resources/css/bulma.min.css">
     <link rel="stylesheet" type="text/css" href="../resources/css/animate.css">
     <link rel="stylesheet" type="text/css" href="../resources/css/app.css">
@@ -159,7 +160,7 @@ if (isset($_POST['email'])) {
         <div class="container">
             <h1 class="title is-1">
                 <figure class="media-left">
-                    <a href="../" class="returnback">
+                    <a title="Accueil" href="../" class="returnback">
                         <span class="icon"><span class="fas fa-chevron-left"></span></span>
                     </a>
                     <span style="margin-left: 10px;">Contactez Moi !</span>
@@ -191,7 +192,7 @@ if (isset($_POST['email'])) {
                                 <tbody>
                                 <tr>
                                     <th>Téléphone</th>
-                                    <th class="light"><a href="tel:+33652022576">+33652022576</a></th>
+                                    <th class="light"><a title="Téléphone" href="tel:+33652022576">+33652022576</a></th>
                                 </tr>
                                 <tr>
                                     <th>Adresse</th>
@@ -199,15 +200,15 @@ if (isset($_POST['email'])) {
                                 </tr>
                                 <tr>
                                     <th>@mail</th>
-                                    <th class="light"><a href="mailto: contact@rstr.fr">contact@rstr.fr</a></th>
+                                    <th class="light"><a title="Envoyer un mail" href="mailto: contact@rstr.fr">contact@rstr.fr</a></th>
                                 </tr>
                                 <tr>
                                     <th>GitHub</th>
-                                    <th class="light"><a href="https://github.com/romainstorai">RomainStorai</a></th>
+                                    <th class="light"><a title="Github" href="https://github.com/romainstorai">RomainStorai</a></th>
                                 </tr>
                                 <tr>
                                     <th>Facebook</th>
-                                    <th class="light"><a href="https://www.facebook.com/romains62">romains62</a></th>
+                                    <th class="light"><a title="Ajouter un ami" href="https://www.facebook.com/romains62">romains62</a></th>
                                 </tr>
                                 </tbody>
                             </table>
@@ -280,19 +281,19 @@ if (isset($_POST['email'])) {
         <div class="container">
             <div class="has-text-right">
                 <h2 class="subtitle has-text-right is-6">
-                    <a href="https://rstr.fr">rstr.fr</a>
+                    <a title="RSTR.FR" href="https://rstr.fr">rstr.fr</a>
                     <span class="icon"><i class="fas fa-copyright"></i></span>
                     <span style="font-size: 14px">2018</span>
                 </h2>
                 <h2 class="subtitle has-text-right is-7" style="margin-top: -25px">
-                    by <a href="https://rstr.fr">Romain Storaï</a>
+                    by <a title="Romain" href="https://rstr.fr">Romain Storaï</a>
                 </h2>
                 <h5 id="legals" style="margin-top: -25px; font-size: 12px;color: #cccccc;text-decoration: underline"><a
-                        href="../mentions/">Mentions
+                        title="Mentions" href="../mentions/">Mentions
                     légales</a></h5>
             </div>
             <div class="has-text-left lang">
-                <a href="../en/contact/"><span class="icon">
+                <a title="English Version" href="../en/contact/"><span class="icon">
                                 <span class="fas fa-language"></span>
                             </span> English</a>
             </div>

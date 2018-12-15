@@ -60,13 +60,13 @@ if (isset($_POST['email'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Romain Storaï : profile, skills, educations, hobbies and a lot more!">
+    <meta name="twitter:title" content="Romain Storai: profile, skills, educations, hobbies and a lot more!">
     <meta name="twitter:description"
           content="Come on my websites to discover my skills, educations and a lot more! This is a CV website where I present myself, you can contact me or just take a look. Have a good visit!">
     <meta name="twitter:image" content="https://rstr.fr/favicon.png">
     <meta name="twitter:image:alt" content="Logo Romain">
     <meta property="og:type" content="profile">
-    <meta property="og:title" content="Romain Storaï : profile, skills, educations, hobbies and a lot more!">
+    <meta property="og:title" content="Romain Storai: profile, skills, educations, hobbies and a lot more!">
     <meta property="og:url" content="https://rstr.fr/en">
     <meta property="og:image" content="https://rstr.fr/favicon.png">
     <meta property="profile:first_name" content="Romain">
@@ -81,7 +81,7 @@ if (isset($_POST['email'])) {
     <meta name="keywords"
           content="romain storaï, romain storai, romain, formations, education, expériences, loisirs, lycéen, cv, resume, bnssa, terminale, wimereux, rstr, storai, anglais, français, canada, programmation, contact"/>
     <meta name="description"
-          content="Come on my websites to discover my skills, educations and a lot more! This is a CV website where I present myself, you can contact me or just take a look. Have a good visit!">
+              content="Hello, my name is Romain Storai. Come on my websites to discover my profile, CV and a lot more! I present myself, you can contact me or just take a look. Have a good visit!">
     <meta name="google" content="notranslate">
     <meta name="subject" content="Resume">
     <meta name="rating" content="General">
@@ -125,7 +125,8 @@ if (isset($_POST['email'])) {
     <meta name="msapplication-TileImage" content="/resources/img/mstile-144x144.png">
     <meta name="msapplication-config" content="/resources/img/browserconfig.xml">
 
-    <title style="font-size: 30px">Romain Storaï :: Contact</title>
+    <title style="font-size: 30px">Romain Storai :: Contact</title>
+    <link rel="canonical" href="https://rstr.fr/en/contact/" />
     <link rel="stylesheet" href="../../resources/css/bulma.min.css">
     <link rel="stylesheet" type="text/css" href="../../resources/css/animate.css">
     <link rel="stylesheet" type="text/css" href="../../resources/css/app.css">
@@ -160,7 +161,7 @@ if (isset($_POST['email'])) {
         <div class="container">
             <h1 class="title is-1">
                 <figure class="media-left">
-                    <a href="../" class="returnback">
+                    <a title="Home" href="../" class="returnback">
                         <span class="icon"><span class="fas fa-chevron-left"></span></span>
                     </a>
                     <span style="margin-left: 10px;">Contact me!</span>
@@ -192,7 +193,7 @@ if (isset($_POST['email'])) {
                                 <tbody>
                                 <tr>
                                     <th>Phone number</th>
-                                    <th class="light"><a href="tel:+33652022576">+33652022576</a></th>
+                                    <th class="light"><a title="Call" href="tel:+33652022576">+33652022576</a></th>
                                 </tr>
                                 <tr>
                                     <th>Address</th>
@@ -200,15 +201,15 @@ if (isset($_POST['email'])) {
                                 </tr>
                                 <tr>
                                     <th>@mail</th>
-                                    <th class="light"><a href="mailto: contact@rstr.fr">contact@rstr.fr</a></th>
+                                    <th class="light"><a title="Mail" href="mailto: contact@rstr.fr">contact@rstr.fr</a></th>
                                 </tr>
                                 <tr>
                                     <th>GitHub</th>
-                                    <th class="light"><a href="https://github.com/romainstorai">RomainStorai</a></th>
+                                    <th class="light"><a title="Github" href="https://github.com/romainstorai">RomainStorai</a></th>
                                 </tr>
                                 <tr>
                                     <th>Facebook</th>
-                                    <th class="light"><a href="https://www.facebook.com/romains62">romains62</a></th>
+                                    <th class="light"><a title="Add as friend" href="https://www.facebook.com/romains62">romains62</a></th>
                                 </tr>
                                 </tbody>
                             </table>
@@ -278,18 +279,18 @@ if (isset($_POST['email'])) {
         <div class="container">
             <div class="has-text-right">
                 <h2 class="subtitle has-text-right is-6">
-                    <a href="https://rstr.fr">rstr.fr</a>
+                    <a title="RSTR.FR" href="https://rstr.fr">rstr.fr</a>
                     <span class="icon"><i class="fas fa-copyright"></i></span>
                     <span style="font-size: 14px">2018</span>
                 </h2>
                 <h2 class="subtitle has-text-right is-7" style="margin-top: -25px">
-                    by <a href="https://rstr.fr">Romain Storaï</a>
+                    by <a title="Romain" href="https://rstr.fr">Romain Storaï</a>
                 </h2>
                 <h5 id="legals" style="margin-top: -25px; font-size: 12px;color: #cccccc;text-decoration: underline"><a
-                            href="../mentions/">Privacy Policy</a></h5>
+                            title="Privacy Policy" href="../mentions/">Privacy Policy</a></h5>
             </div>
             <div class="has-text-left lang">
-                <a href="../../contact/"><span class="icon">
+                <a title="Version française" href="../../contact/"><span class="icon">
                                 <span class="fas fa-language"></span>
                             </span> Français</a>
             </div>
