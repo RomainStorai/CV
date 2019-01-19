@@ -196,7 +196,7 @@ if (isset($_POST['email'])) {
                                 </tr>
                                 <tr>
                                     <th>Adresse</th>
-                                    <th class="light">93 rue du Baston, 62930 Wimereux FRANCE</th>
+                                    <th class="light">93 rue du Baston, 62930 Wimereux FRANCE (<a href="https://plus.codes/9F23QJMC+27">QJMC+27 Wimereux, France</a>)</th>
                                 </tr>
                                 <tr>
                                     <th>@mail</th>
