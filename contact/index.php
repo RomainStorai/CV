@@ -203,6 +203,10 @@ if (isset($_POST['email'])) {
                                     <th class="light"><a title="Envoyer un mail" href="mailto: contact@rstr.fr">contact@rstr.fr</a></th>
                                 </tr>
                                 <tr>
+                                    <th>LinkedIn</th>
+                                    <th class="light"><a title="Consulter le profil" href="https://www.linkedin.com/in/romain-storaï-a7654615a">Romain Storaï</a></th>
+                                </tr>
+                                <tr>
                                     <th>GitHub</th>
                                     <th class="light"><a title="Github" href="https://github.com/romainstorai">RomainStorai</a></th>
                                 </tr>

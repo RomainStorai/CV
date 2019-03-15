@@ -7,13 +7,13 @@
 
     <url>
         <loc>https://rstr.fr/</loc>
-        <lastmod>2019-01-19T21:35:00+00:00</lastmod>
+        <lastmod>2019-03-15T16:01:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
     <url>
         <loc>https://rstr.fr/en/</loc>
-        <lastmod>2019-01-19T21:35:00+00:00</lastmod>
+        <lastmod>2019-03-15T16:01:00+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.00</priority>
     </url>
@@ -31,13 +31,13 @@
     </url>
     <url>
         <loc>https://rstr.fr/en/contact/</loc>
-        <lastmod>2019-01-19T21:35:00+00:00</lastmod>
+        <lastmod>2019-03-15T16:01:00+00:00</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.10</priority>
     </url>
     <url>
         <loc>https://rstr.fr/contact/</loc>
-        <lastmod>2019-01-19T21:35:00+00:00</lastmod>
+        <lastmod>2019-03-15T16:01:00+00:00</lastmod>
         <changefreq>yearly</changefreq>
         <priority>0.10</priority>
     </url>
