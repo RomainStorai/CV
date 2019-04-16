@@ -1,7 +1,7 @@
 <?php
 if (isset($_POST['email'])) {
 
-    $email_to = "contact@rstr.fr";
+    $email_to = "romain.storai@rstr.fr";
     $email_subject = "[Formulaire] Français";
 
     function died($error)
@@ -102,7 +102,7 @@ if (isset($_POST['email'])) {
            "postalCode": "62930",
            "addressCountry": "France"
         },
-        "email": "contact@rstr.fr",
+        "email": "romain.storai@rstr.fr",
         "telephone": "+33652022576",
         "birthDate": "2001-06-03",
         "sameAs": [
@@ -200,7 +200,7 @@ if (isset($_POST['email'])) {
                                 </tr>
                                 <tr>
                                     <th>@mail</th>
-                                    <th class="light"><a title="Envoyer un mail" href="mailto: contact@rstr.fr">contact@rstr.fr</a></th>
+                                    <th class="light"><a title="Envoyer un mail" href="mailto: romain.storai@rstr.fr">romain.storai@rstr.fr</a></th>
                                 </tr>
                                 <tr>
                                     <th>LinkedIn</th>
