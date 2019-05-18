@@ -10,7 +10,7 @@ Location: Wimereux, France
 /* SITE */
 
 
-Last update:  2018/12/13
+Last update:  2019/05/18
 Standards: HTML5, CSS3.
 Language: French / English
 Components: Normalize, jQuery.

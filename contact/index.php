@@ -86,30 +86,29 @@ if (isset($_POST['email'])) {
     <meta name="rating" content="General">
 
     <script type="application/ld+json">
-    {
-        "@context": "http://www.schema.org",
-        "@type": "person",
-        "name": "Romain Storaï",
-        "gender": "Male",
-    	"givenName": "Romain",
-    	"familyName": "Storaï",
-    	"nationality": "French",
-        "url": "https://rstr.fr",
-        "address": {
-           "@type": "PostalAddress",
-           "streetAddress": "93 Rue Du Baston",
-           "addressLocality": "Wimereux",
-           "postalCode": "62930",
-           "addressCountry": "France"
-        },
-        "email": "romain.storai@rstr.fr",
-        "telephone": "+33652022576",
-        "birthDate": "2001-06-03",
-        "sameAs": [
-            "https://www.facebook.com/romains62",
-            "https://github.com/RomainStorai"
-        ]
-    }
+        {
+            "@context": "http://www.schema.org",
+            "@type": "person",
+            "name": "Romain Storaï",
+            "gender": "Male",
+            "givenName": "Romain",
+            "familyName": "Storaï",
+            "nationality": "French",
+            "url": "https://rstr.fr",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Wimereux",
+                "postalCode": "62930",
+                "addressCountry": "France"
+            },
+            "email": "romain.storai@rstr.fr",
+            "telephone": "+33652022576",
+            "birthDate": "2001-06-03",
+            "sameAs": [
+                "https://www.facebook.com/romains62",
+                "https://github.com/RomainStorai"
+            ]
+        }
     </script>
 
     <link rel="apple-touch-icon" sizes="180x180" href="/resources/img/apple-touch-icon.png">
