@@ -286,7 +286,7 @@ if (isset($_POST['email'])) {
                 <h2 class="subtitle has-text-right is-6">
                     <a title="RSTR.FR" href="https://rstr.fr">rstr.fr</a>
                     <span class="icon"><i class="fas fa-copyright"></i></span>
-                    <span style="font-size: 14px">2018</span>
+                    <span style="font-size: 14px">2019</span>
                 </h2>
                 <h2 class="subtitle has-text-right is-7" style="margin-top: -25px">
                     by <a title="Romain" href="https://rstr.fr">Romain Storaï</a>
