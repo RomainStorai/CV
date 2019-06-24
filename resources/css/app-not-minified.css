@@ -91,7 +91,7 @@ img {
 }
 
 .vcard {
-    min-height: 950px;
+    min-height: 920px;
     border-radius: 8px;
     box-shadow: 0 6px 15px rgba(50, 50, 93, .1), 0 2px 7px rgba(0, 0, 0, .07);
 }
