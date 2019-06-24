@@ -186,13 +186,13 @@ img {
 
 @media (max-width: 1470px) {
     .vcard {
-        min-height: 975px;
+        min-height: 948px;
     }
 }
 
 @media (max-width: 1086px) {
     .vcard {
-        min-height: 995px;
+        min-height: 969px;
     }
 }
 
